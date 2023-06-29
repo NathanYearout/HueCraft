@@ -1,0 +1,32 @@
+modLoader="javafml"
+# Forge for 1.19 is version 41
+loaderVersion="[41,)"
+license="All rights reserved"
+
+showAsResourcePack=false
+
+[[mods]]
+modId="huecraft"
+version="1.0"
+displayName="Hue Craft"
+logoFile="logo.png"
+credits=""
+authors="Nathan Yearout"
+description='''
+A neat way of using Minecraft to interface with your Hue device in different ways.
+    '''
+displayTest="MATCH_VERSION"
+
+[[dependencies.huecraft]]
+modId="forge"
+mandatory=true
+versionRange="[41,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.huecraft]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.19,1.20)"
+ordering="NONE"
+side="BOTH"
