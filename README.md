@@ -1,3 +1,10 @@
+[![NathanYearout - HueCraft](https://img.shields.io/static/v1?label=NathanYearout&message=HueCraft&color=red&logo=github)](https://github.com/NathanYearout/HueCraft "Go to GitHub repo")
+[![GitHub tag](https://img.shields.io/github/tag/NathanYearout/HueCraft?include_prereleases=&sort=semver&color=red)](https://github.com/NathanYearout/HueCraft/releases/)
+[![License](https://img.shields.io/badge/License-MIT-red)](https://github.com/NathanYearout/HueCraft/blob/main/LICENSE)
+[![issues - HueCraft](https://img.shields.io/github/issues/NathanYearout/HueCraft)](https://github.com/NathanYearout/HueCraft/issues)
+
+</div>
+
 # HueCraft
 
 <img src="https://nathanyearout.com/images/projects/project-4.jpg" width="200">
