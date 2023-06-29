@@ -45,5 +45,7 @@ Contributions to HueCraft are welcome! If you have any suggestions, bug reports,
 ## Contact
 
 Instagram: https://www.instagram.com/nathan_yearout/
+
 Linkedin: https://www.linkedin.com/in/nathan-yearout/
+
 Website: https://nathanyearout.com/
