@@ -1,6 +1,6 @@
 # HueCraft
 
-![HueCraft Logo]()
+![HueCraft Logo](https://nathanyearout.com/images/projects/project-4.jpg)
 
 HueCraft is a Minecraft mod that seamlessly integrates your Philips Hue lights with the game, allowing you to synchronize the lighting in your physical environment with the in-game brightness. Experience the game in a new immersive way as your room dynamically changes while you're in a dark cave or in a brightly lit base.
 
